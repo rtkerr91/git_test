@@ -1,1 +1,2 @@
 Hello from file 1.
+Edit of file 1 on master branch.
